@@ -24,6 +24,7 @@ SQL Injection is a sort of infusion assault that makes it conceivable to execute
 
 
 Identify IP address using ifconfig in Metasploitable2
+
 ![image](https://github.com/AmirthaRoopaS/sqlinjection/assets/143496311/6982d9a0-a781-44ce-af29-26dbde20403e)
 
 Use the above ip address to access the apache webserver of Metasploitable2 from kali linux. In Kali Linux use the ip address in a web browser.
